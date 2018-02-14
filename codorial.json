@@ -1,7 +1,12 @@
 {
   "title": "My new tutorial",
   "pages": [
-    "Getting Started",
-    "Something Else"
+    {
+      title: "Getting Started",
+      file: "01-getting-started.md"
+    },
+    {
+      title: "Something Else"
+    }
   ]
 }
