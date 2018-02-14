@@ -3,7 +3,7 @@
   "pages": [
     {
       "title": "Getting Started",
-      "file": "01-getting-started.md"
+      "file": "01-getting-started"
     },
     {
       "title": "Something Else"
