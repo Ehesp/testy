@@ -6,7 +6,10 @@
       "file": "01-getting-started"
     },
     {
-      "title": "Something Else"
+      "title": "Setting up your React Native Environment"
+    },
+    {
+      "title": "Installing your emulators"
     }
   ]
 }
