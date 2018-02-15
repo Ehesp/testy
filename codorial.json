@@ -1,6 +1,6 @@
 {
   "title": "My new tutorial",
-  "pages": [
+  "steps": [
     {
       "title": "Getting Started",
       "file": "01-getting-started"
