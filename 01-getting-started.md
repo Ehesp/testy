@@ -35,3 +35,12 @@ Some text with inline `code`.
 | --------- | ------- |
 | Joe Bloggs  | joe.bloggs@gmail.com |
 | Ben Dover  | ben.dover@gmail.com |
+
+- [ ] Not Complete
+- [x] Complete
+
+Go to http://google.com!
+
+----
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZSD6VFUVbsQ/0.jpg)](http://www.youtube.com/watch?v=ZSD6VFUVbsQ)
