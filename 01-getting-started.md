@@ -47,4 +47,4 @@ Go to http://google.com!
 
 :smile: :smile: :smile:
 
-<script>alert('Lololol');<script>
+<script>alert('Lololol');</script>
