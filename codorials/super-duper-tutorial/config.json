@@ -4,6 +4,9 @@
     {
       "title": "Getting Started",
       "file": "getting-started"
+    },
+    {
+      "file": "installing-nothing"
     }
   ]
 }
