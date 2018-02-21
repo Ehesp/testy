@@ -6,6 +6,10 @@
       "file": "getting-started"
     },
     {
+      "title": "Another step",
+      "file": "another-step"
+    },
+    {
       "file": "installing-nothing"
     }
   ]
